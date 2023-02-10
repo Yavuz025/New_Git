@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="New_Git" options="--add-exports java.base/jdk.internal.logger=ALL-UNNAMED" />
+      <module name="New_Git" options="" />
     </option>
   </component>
 </project>
