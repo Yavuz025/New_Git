@@ -6,6 +6,6 @@ public class newUser {
         // bekle bekle yavuzzz
         // bekle yavuz bekle
         System.out.println("welcome world");
-        // this one is added from githup, see you in intelij
+        // this one is added from Githup, see you in intellij
     }
 }
