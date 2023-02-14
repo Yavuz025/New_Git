@@ -19,6 +19,6 @@ public class task {
 
         System.out.println("Hello from Github");
 
-
+        // git fetch --> first to send the code for local repo
     }
 }
